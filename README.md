@@ -1,4 +1,14 @@
 - 👋 Hi, I’m Hossein Foroughi
-- 👀 I’m interested in learning something new
-- 🌱 I’m currently learning programing and english
-
+- I’m interested in learning something new
+- I’m currently learning programing and english
+- I like podcast and I listen to them a lot
+- I know :
+-   C programming
+-   C++
+-   HTML
+-   CSS
+-   CSS3
+- I can work with some programs that related to robotic :
+-   Corel Draw
+-   Multisim
+-   work with Arduino
