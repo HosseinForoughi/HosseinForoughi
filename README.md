@@ -3,6 +3,7 @@
 - I’m currently learning programing and english
 - I like podcast and I listen to them a lot
 - I know :
+-   Python
 -   C programming
 -   C++
 -   HTML
